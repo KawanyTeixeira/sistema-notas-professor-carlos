@@ -111,8 +111,9 @@ O frontend abrirá automaticamente em: `http://localhost:3000`
 
 ## 👨‍💻 Desenvolvido por
 
-Kawany Teixeira
+Kawany Emilly Freitas Teixeira
 
 ---
 
 Projeto desenvolvido como parte do processo seletivo para estágio em desenvolvimento na DTI Digital.
+
