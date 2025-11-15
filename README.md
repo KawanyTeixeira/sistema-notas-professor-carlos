@@ -1,6 +1,6 @@
 # Sistema de Notas - Professor Carlos
 
-Sistema web para gerenciamento de notas e frequência de alunos, desenvolvido com Spring Boot (backend) e React (frontend).
+Sistema web para gerenciamento de notas e frequência de alunos, desenvolvido com Java e Spring Boot (backend) e React (frontend).
 
 ## 📋 Descrição do Projeto
 
@@ -116,4 +116,5 @@ Kawany Emilly Freitas Teixeira
 ---
 
 Projeto desenvolvido como parte do processo seletivo para estágio em desenvolvimento na DTI Digital.
+
 
